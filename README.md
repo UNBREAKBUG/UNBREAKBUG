@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Harshit Kamboj
 
-**Information Technology Manager | Cybersecurity Enthusiast | Full Stack Developer**
+**Information Technology Manager | Cybersecurity Researcher | Web 2.0 & 3.0 Developer | Software Developer & Engineer | Outreach Coordinator X Cypherlock Club**
 
 [LinkedIn](https://www.linkedin.com/in/harshit-kamboj-72328a251/) | [Email Me](mailto:22BIS70092@cuchd.in)
 
@@ -16,7 +16,7 @@ Radhe Radhe 🙏! I'm Harshit Kamboj, currently pursuing a Bachelor's in Compute
 - **Current Role:** Information Technology Manager at Uni.Pitch
 - **Internships:** Marketing Intern at Shine Projects
 - **Technical Skills:** C++, Python, Java, SQL, Flutter, Cybersecurity, Cryptography
-- **Interests:** Digital Strategy, SEO, Marketing Management, Graphic Design, Content Writing, AI/ML, Big Data
+- **Interests:** Software Engineering & Development, Docker, Bug Hunting, OSINT, Offensive Security, Prompt Engineering, Information Security Research & Tool Devlopment, Digital Strategy, SEO, Marketing Management, Graphic Design, Content Writing, AI/ML, Big Data
 
 ---
 
@@ -41,7 +41,7 @@ I aspire to work as a **Developer**, **Software Engineer**, or **Security Resear
 
 ### 🛠 Technical Competencies
 
-- **Languages & Frameworks:** C++, Java, Python, SQL, Flutter
+- **Languages & Frameworks:** C, C++, Java, Python, SQL, Flutter
 - **Domains:** Cybersecurity, OS, DBMS, Computer Networks, Cryptography
 - **Certifications:** Google Cybersecurity, Microsoft Azure, Oracle AI Professional, Angular Development
 - **Tools:** Burp Suite, VMware/VirtualBox, ADB
@@ -62,8 +62,11 @@ I aspire to work as a **Developer**, **Software Engineer**, or **Security Resear
 - **B.E. Computer Science (Information Security)**  
   Chandigarh University (2022-2026) - **8.81 CGPA**
   
-- **High School (CBSE)**  
+- **Intermediate (CBSE)**  
   Hari Om Shiv Om Public School - **94.6%**
+
+  - **Matriculation (CBSE)**  
+  Hari Om Shiv Om Public School - **85%**
 
 ---
 
@@ -72,5 +75,3 @@ I aspire to work as a **Developer**, **Software Engineer**, or **Security Resear
 I’m always excited to explore new challenges and collaborate on innovative projects. If you’re looking for a tech-driven, results-oriented professional to lead or collaborate on your next venture, let’s connect!
 
 ---
-
-Feel free to adjust or expand this to better reflect your personal style!
