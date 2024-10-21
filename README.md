@@ -5,13 +5,13 @@
 
 **Information Technology Manager | Cybersecurity Enthusiast | Full Stack Developer**
 
-[LinkedIn](https://shorturl.at/npxK0](https://www.linkedin.com/in/harshit-kamboj-72328a251/)) | [Email Me](mailto:22BIS70092@cuchd.in)
+[LinkedIn](https://www.linkedin.com/in/harshit-kamboj-72328a251/) | [Email Me](mailto:22BIS70092@cuchd.in)
 
 ---
 
 ### 💼 About Me
 
-Jai Shree Krishna 🙏! I'm Harshit Kamboj, currently pursuing a Bachelor's in Computer Science Engineering (Information Security) from Chandigarh University. With a passion for technology, cybersecurity, and innovation, I've built a diverse skill set that spans software development, project management, and creative problem-solving. My goal is to leverage my technical expertise and leadership to make a meaningful impact in the world of IT and digital transformation.
+Radhe Radhe 🙏! I'm Harshit Kamboj, currently pursuing a Bachelor's in Computer Science Engineering (Information Security) from Chandigarh University. With a passion for technology, cybersecurity, and innovation, I've built a diverse skill set that spans software development, project management, and creative problem-solving. My goal is to leverage my technical expertise and leadership to make a meaningful impact in the world of IT and digital transformation.
 
 - **Current Role:** Information Technology Manager at Uni.Pitch
 - **Internships:** Marketing Intern at Shine Projects
