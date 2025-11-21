@@ -7,9 +7,9 @@ Information Security Undergraduate
 
 ## About Me
 
-I focus on understanding how systems fail, how attacks propagate, and how defensive strategies can be engineered to stop them. My work centers on vulnerability assessment, penetration testing fundamentals, reconnaissance, network and web security, and practical cyber defense.
+I focus on understanding how systems fail, how attacks propagate, and how defensive strategies can be engineered to stop them. My work centers around vulnerability assessment, penetration testing fundamentals, reconnaissance, and practical cyber defense. I learn through hands-on security labs, attack surface analysis, and CTF challenges that replicate real-world adversarial behavior.
 
-I learn through hands-on experimentation, security labs, controlled attack simulations, and CTF challenges that reflect real-world adversarial behavior. My objective is to evolve into a cybersecurity consultant capable of identifying weaknesses, evaluating risks, and improving security posture through structured, evidence-driven analysis.
+My objective is to become a cybersecurity consultant capable of identifying weaknesses, evaluating risks, and strengthening security postures through structured and evidence-driven approaches.
 
 ---
 
@@ -17,57 +17,53 @@ I learn through hands-on experimentation, security labs, controlled attack simul
 
 - Vulnerability Assessment  
 - Penetration Testing Concepts  
-- Web Security and Network Security  
+- Web Security  
+- Network Security  
 - Reconnaissance and Enumeration  
 - Forensics and System Analysis  
-- Security Frameworks  
-    - MITRE ATT&CK  
-    - OWASP Top 10  
-    - SANS Top 25  
-- Security and Networking Tools  
-    - Nmap  
-    - Wireshark  
-    - Burp Suite  
-    - Autopsy  
-    - FTK Imager  
-    - Trivy  
-    - Amass  
-    - Maltego  
-- Programming  
-    - Python  
-    - C++  
-    - Java  
+- MITRE ATT&CK  
+- OWASP Top 10  
+- SANS Top 25  
+
+### Tools
+
+- Nmap  
+- Wireshark  
+- Burp Suite  
+- Autopsy  
+- FTK Imager  
+- Trivy  
+- Amass  
+- Maltego  
+
+### Programming
+
+- Python  
+- C++  
+- Java  
 
 ---
 
 ## Projects
 
 ### SecPhisher  
-A controlled phishing simulation tool created to study social engineering workflows and credential-harvesting behavior in a safe, local environment.
+A controlled phishing simulation tool designed to analyze social engineering workflows and credential harvesting behavior.
 
 ### Keylogger Simulation  
-A local simulation focused on examining keylogging behavior, detection patterns, and defensive measures designed to mitigate unauthorized data capture.
+A local and safe simulation created to examine keylogging patterns and demonstrate defensive techniques.
 
 ---
 
 ## Active Practice
 
-- CTF Participation  
-    - PicoCTF  
-    - CypherHunt  
-    - ThunderCipher  
-    - CTFtime  
-- Practical Learning Platforms  
-    - OverTheWire  
-    - TryHackMe  
-- Ongoing Learning Tracks  
-    - CCNA  
-    - CompTIA Security+  
-    - CEH Practical  
+- CTF Participation: PicoCTF, CypherHunt, ThunderCipher, CTFtime  
+- Hands-on Platforms: OverTheWire, TryHackMe  
+- Current Learning Tracks: CCNA, Security+, CEH Practical  
 
 ---
 
 ## Objective
 
-To build a career in security analysis and cybersecurity consulting with emphasis on threat identification, attack surface evaluation, vulnerability exploration, and the development of resilient defensive strategies.
+To build a career in security analysis and consulting with a focus on threat identification, attack surface evaluation, adversarial techniques, and defensive strategy development.
 
+---
