@@ -1,77 +1,55 @@
+# Harshit Kamboj
+
+Cybersecurity Enthusiast  
+Information Security Undergraduate  
 
 ---
 
-# 👋 Hello, I'm Harshit Kamboj
+## About Me
 
-**Information Technology Manager | Cybersecurity Researcher | Web 2.0 & 3.0 Developer | Software Developer & Engineer | Outreach Coordinator X Cypherlock Club**
+I focus on how systems fail, how attacks unfold, and how defensive strategies can be engineered to counter real-world adversaries. My work centers on vulnerability assessment, penetration testing fundamentals, reconnaissance, and cyber defense techniques. I build and analyze security labs, study attack surfaces, and solve CTF challenges to understand practical threat behavior.
 
-[LinkedIn](https://www.linkedin.com/in/harshit-kamboj-72328a251/) | [Email Me](mailto:22BIS70092@cuchd.in)
-
----
-
-### 💼 About Me
-
-Radhe Radhe 🙏! I'm Harshit Kamboj, currently pursuing a Bachelor's in Computer Science Engineering (Information Security) from Chandigarh University. With a passion for technology, cybersecurity, and innovation, I've built a diverse skill set that spans software development, project management, and creative problem-solving. My goal is to leverage my technical expertise and leadership to make a meaningful impact in the world of IT and digital transformation.
-
-- **Current Role:** Information Technology Manager at Uni.Pitch
-- **Internships:** Marketing Intern at Shine Projects
-- **Technical Skills:** C++, Python, Java, SQL, Flutter, Cybersecurity, Cryptography
-- **Interests:** Software Engineering & Development, Docker, Bug Hunting, OSINT, Offensive Security, Prompt Engineering, Information Security Research & Tool Devlopment, Digital Strategy, SEO, Marketing Management, Graphic Design, Content Writing, AI/ML, Big Data
+I aim to develop into a cybersecurity consultant specializing in identifying weaknesses, evaluating risks, and strengthening organizational security through evidence-based analysis.
 
 ---
 
-### 🚀 Projects
+## Core Competencies
 
-- **Go Scholar:**  
-  A comprehensive solution for students to find scholarships effortlessly. Led the team as a UI/UX designer and project planner.
-  
-- **The Smart-Sprout:**  
-  A hardware solution to optimize crop yield for farmers, where I acted as the project manager and prototype designer.
-  
-- **E-Mitra:**  
-  A platform connecting employers with daily wage workers. I contribute as a developer and provide technical support.
+Vulnerability Assessment  
+Penetration Testing Concepts  
+Web Security and Network Security  
+Reconnaissance and Enumeration  
+Forensics and System Analysis  
+Risk Analysis and Security Controls  
+MITRE ATT&CK  
+OWASP Top 10  
+SANS Top 25  
 
----
-
-### 🎯 Career Objectives
-
-I aspire to work as a **Developer**, **Software Engineer**, or **Security Researcher** for a forward-thinking firm. I'm exploring **emerging technologies** like Scala, AI/ML, and Progressive Web Apps, and am passionate about leveraging **Big Data** for next-gen solutions.
+Tools: Nmap, Wireshark, Burp Suite, Autopsy, FTK Imager, Trivy, Angry IP Scanner, ProDiscover, Amass, Maltego, Z-phisher, Google Dorks, Ghidra, Kruptos  
+Programming: Python, C++, Java  
 
 ---
 
-### 🛠 Technical Competencies
+## Projects
 
-- **Languages & Frameworks:** C, C++, Java, Python, SQL, Flutter
-- **Domains:** Cybersecurity, OS, DBMS, Computer Networks, Cryptography
-- **Certifications:** Google Cybersecurity, Microsoft Azure, Oracle AI Professional, Angular Development
-- **Tools:** Burp Suite, VMware/VirtualBox, ADB
+SecPhisher  
+A controlled phishing simulation tool designed to analyze credential harvesting workflows and demonstrate social engineering patterns.
 
----
-
-### 🏆 Achievements & Certifications
-
-- **Third Place:** Kavach Inter University Hackathon
-- **Gold Medalist:** Mathematics and Social Science Olympiad
-- **Core Member:** CypherLock Club
-- **Top Performer:** University Aptitude Assessment
+Keylogger Simulation  
+A safe, local keylogging behavior simulation built to understand keylogging techniques and associated defensive measures.
 
 ---
 
-### 📚 Education
+## Active Practice
 
-- **B.E. Computer Science (Information Security)**  
-  Chandigarh University (2022-2026) - **8.81 CGPA**
-  
-- **Intermediate (CBSE)**  
-  Hari Om Shiv Om Public School - **94.6%**
-
-  - **Matriculation (CBSE)**  
-  Hari Om Shiv Om Public School - **85%**
+CTFs including PicoCTF, CypherHunt, ThunderCipher, and CTFtime  
+Hands-on platforms such as OverTheWire and TryHackMe  
+Current learning tracks: CCNA, Security Plus, CEH Practical  
 
 ---
 
-### 🌱 Let's Collaborate
+## Objective
 
-I’m always excited to explore new challenges and collaborate on innovative projects. If you’re looking for a tech-driven, results-oriented professional to lead or collaborate on your next venture, let’s connect!
+To advance as a security analyst and consultant focusing on threat identification, attack surface evaluation, vulnerability analysis, and defensive strategy development.
 
 ---
