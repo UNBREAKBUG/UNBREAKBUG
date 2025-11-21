@@ -1,55 +1,73 @@
 # Harshit Kamboj
 
 Cybersecurity Enthusiast  
-Information Security Undergraduate  
+Information Security Undergraduate
 
 ---
 
 ## About Me
 
-I focus on how systems fail, how attacks unfold, and how defensive strategies can be engineered to counter real-world adversaries. My work centers on vulnerability assessment, penetration testing fundamentals, reconnaissance, and cyber defense techniques. I build and analyze security labs, study attack surfaces, and solve CTF challenges to understand practical threat behavior.
+I focus on understanding how systems fail, how attacks propagate, and how defensive strategies can be engineered to stop them. My work centers on vulnerability assessment, penetration testing fundamentals, reconnaissance, network and web security, and practical cyber defense.
 
-I aim to develop into a cybersecurity consultant specializing in identifying weaknesses, evaluating risks, and strengthening organizational security through evidence-based analysis.
+I learn through hands-on experimentation, security labs, controlled attack simulations, and CTF challenges that reflect real-world adversarial behavior. My objective is to evolve into a cybersecurity consultant capable of identifying weaknesses, evaluating risks, and improving security posture through structured, evidence-driven analysis.
 
 ---
 
 ## Core Competencies
 
-Vulnerability Assessment  
-Penetration Testing Concepts  
-Web Security and Network Security  
-Reconnaissance and Enumeration  
-Forensics and System Analysis  
-Risk Analysis and Security Controls  
-MITRE ATT&CK  
-OWASP Top 10  
-SANS Top 25  
-
-Tools: Nmap, Wireshark, Burp Suite, Autopsy, FTK Imager, Trivy, Angry IP Scanner, ProDiscover, Amass, Maltego, Z-phisher, Google Dorks, Ghidra, Kruptos  
-Programming: Python, C++, Java  
+- Vulnerability Assessment  
+- Penetration Testing Concepts  
+- Web Security and Network Security  
+- Reconnaissance and Enumeration  
+- Forensics and System Analysis  
+- Security Frameworks  
+    - MITRE ATT&CK  
+    - OWASP Top 10  
+    - SANS Top 25  
+- Security and Networking Tools  
+    - Nmap  
+    - Wireshark  
+    - Burp Suite  
+    - Autopsy  
+    - FTK Imager  
+    - Trivy  
+    - Amass  
+    - Maltego  
+- Programming  
+    - Python  
+    - C++  
+    - Java  
 
 ---
 
 ## Projects
 
-SecPhisher  
-A controlled phishing simulation tool designed to analyze credential harvesting workflows and demonstrate social engineering patterns.
+### SecPhisher  
+A controlled phishing simulation tool created to study social engineering workflows and credential-harvesting behavior in a safe, local environment.
 
-Keylogger Simulation  
-A safe, local keylogging behavior simulation built to understand keylogging techniques and associated defensive measures.
+### Keylogger Simulation  
+A local simulation focused on examining keylogging behavior, detection patterns, and defensive measures designed to mitigate unauthorized data capture.
 
 ---
 
 ## Active Practice
 
-CTFs including PicoCTF, CypherHunt, ThunderCipher, and CTFtime  
-Hands-on platforms such as OverTheWire and TryHackMe  
-Current learning tracks: CCNA, Security Plus, CEH Practical  
+- CTF Participation  
+    - PicoCTF  
+    - CypherHunt  
+    - ThunderCipher  
+    - CTFtime  
+- Practical Learning Platforms  
+    - OverTheWire  
+    - TryHackMe  
+- Ongoing Learning Tracks  
+    - CCNA  
+    - CompTIA Security+  
+    - CEH Practical  
 
 ---
 
 ## Objective
 
-To advance as a security analyst and consultant focusing on threat identification, attack surface evaluation, vulnerability analysis, and defensive strategy development.
+To build a career in security analysis and cybersecurity consulting with emphasis on threat identification, attack surface evaluation, vulnerability exploration, and the development of resilient defensive strategies.
 
----
